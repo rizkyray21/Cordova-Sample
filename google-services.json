@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789855628450",
+    "firebase_url": "https://acc-1-f4cbb.firebaseio.com",
+    "project_id": "acc-1-f4cbb",
+    "storage_bucket": "acc-1-f4cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789855628450:android:fd34cafc04fbcad4747bfb",
+        "android_client_info": {
+          "package_name": "com.outsystemsenterprise.accdev1.ExotelACCTesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789855628450-mptfga7df0dddlpg26uf2r3sll1m4pp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDSy1gkavlqKmP8-eFys_FjTRktYJZRJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789855628450-mptfga7df0dddlpg26uf2r3sll1m4pp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
